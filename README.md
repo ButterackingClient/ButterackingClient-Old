@@ -10,6 +10,9 @@
 # 다운로드
  다운로드는 우측의 Release란에서 가능합니다
 
+# 이전 버전 다운로드
+ [여기](https://kmw23.synology.me:5001/fsdownload/IiT6rR7ID/ButterackingClient)를 클릭하여 이전 버전을 받아보세요
+
 # 지원
  도움이 필요할 경우 [디스코드](https://discord.gg/BgH7XUreff)에 들어와 개발자(delta#2090)를 호출해주세요
  
