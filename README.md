@@ -20,3 +20,7 @@
 
 # License
  추가 예정
+
+<a href="https://www.youtube.com/@Butteracking" target="_blank"> 
+ <img src="https://cdn.discordapp.com/attachments/1113703627358470185/1117400943462449152/youtube.ico" width=20px height=20px> @Butteracking
+</a>
