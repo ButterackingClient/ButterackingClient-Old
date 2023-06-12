@@ -18,9 +18,15 @@
  
  만약 한국어가 불가능한 상황(외국인)인 경우 이슈 란에 남겨주세요, 가능한 빠른 시일내에 확인후 답드리겠습니다
 
-# License
- 추가 예정
+# 라이센스
+| Mods        | Source       |
+| ----------- | ------------ |
+| Hangul Chat | 룻트(won983212) |
+| Hit Color   | ~~ChatGPT?~~ |
 
+~~힛컬러는 개발자가 ai랑 씨름해서 얻어낸 결과라고 밝혀져 충격을 금치 못하고..~~
+
+## 소셜 네트워크
 <a href="https://www.youtube.com/@Butteracking" target="_blank"> 
  <img src="https://cdn.discordapp.com/attachments/1113703627358470185/1117400943462449152/youtube.ico" width=20px height=20px> @Butteracking
 </a>
