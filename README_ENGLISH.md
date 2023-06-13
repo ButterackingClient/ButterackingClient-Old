@@ -20,7 +20,10 @@
 | Mods        | Source       |
 | ----------- | ------------ |
 | Hangul Chat | 룻트(won983212) |
-| Hit Color   | ~~ChatGPT?~~ |
+| Hit Color / 1.7 Sneaking / Snaplook / Timer / Custom Gui  | Delta8682 / ~~ChatGPT?~~ |
+| OldAnimations | KoreaComClient | | ToggleSprint / Cape | Quickdaffy / Delta8682 | 
+| Armor Status / XYZ / Fps / Cps / KeyStrokes | EricGold | 
+| Most of the things remaining | Nether Client (https://youtu.be/xg2M21todDU) |
 
 ~~Hittcolor is said to be the result of a developer's struggle with AI, and it has been revealed with shocking impact...~~
 
