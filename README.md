@@ -25,7 +25,7 @@
 | Hit Color / 1.7 Sneaking / Snaplook / Timer / Custom Gui  | Delta8682 / ~~ChatGPT?~~ |
 | OldAnimations | KoreaComClient | | ToggleSprint / Cape | Quickdaffy / Delta8682 | 
 | Armor Status / XYZ / Fps / Cps / KeyStrokes | EricGold | 
-| Most of the things remaining | Nether Client (https://www.youtu.be/xg2M21todDU) |
+| Most of the things remaining | Nether Client (https://youtu.be/xg2M21todDU) |
 
 
 ~~힛컬러는 개발자가 ai랑 씨름해서 얻어낸 결과라고 밝혀져 충격을 금치 못하고..~~
