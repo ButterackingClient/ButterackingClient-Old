@@ -18,7 +18,8 @@
  
  만약 한국어가 불가능한 상황(외국인)인 경우 이슈 란에 남겨주세요, 가능한 빠른 시일내에 확인후 답드리겠습니다
 
-# 라이센스
+# 라이센스 & 사용된 모드들
+[MIT License](https://github.com/ButterackingClient/ButterackingClient/blob/main/LICENSE)
 | Mods        | Source       |
 | ----------- | ------------ |
 | Hangul Chat | 룻트(won983212) |
@@ -26,9 +27,6 @@
 | OldAnimations | KoreaComClient | | ToggleSprint / Cape | Quickdaffy / Delta8682 | 
 | Armor Status / XYZ / Fps / Cps / KeyStrokes | EricGold | 
 | Most of the things remaining | Nether Client (https://youtu.be/xg2M21todDU) |
-
-
-~~힛컬러는 개발자가 ai랑 씨름해서 얻어낸 결과라고 밝혀져 충격을 금치 못하고..~~
 
 ## 소셜 네트워크
 <a href="https://www.youtube.com/@Butteracking" target="_blank"> 
