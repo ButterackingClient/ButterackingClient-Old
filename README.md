@@ -1,4 +1,4 @@
-한국어 | [English](https://github.com/ButterackingClient/ButterackingClient/blob/main/README_ENGLISH.md)
+**한국어** | [English](https://github.com/ButterackingClient/ButterackingClient/blob/main/README_ENGLISH.md)
 
 # 버터래킹 클라이언트
  가장 기본적인 PVP 클라이언트
