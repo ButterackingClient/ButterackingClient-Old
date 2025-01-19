@@ -1,0 +1,13 @@
+/*   */ package net.minecraft.entity;
+/*   */ 
+/*   */ public enum EnumCreatureAttribute {
+/* 4 */   UNDEFINED,
+/* 5 */   UNDEAD,
+/* 6 */   ARTHROPOD;
+/*   */ }
+
+
+/* Location:              C:\User\\user\Desktop\Butteracking Client v4\Butteracking Client v4.jar!\net\minecraft\entity\EnumCreatureAttribute.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */
